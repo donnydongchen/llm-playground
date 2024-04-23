@@ -1,0 +1,6 @@
+openai
+python-dotenv
+json5
+pymongo
+termcolor
+requests
